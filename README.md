@@ -1,1 +1,1 @@
-# Transformers
+This repository is a playground based on materials from [Transformers for Natural Language Processing](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing) book published by [Packt](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791).
